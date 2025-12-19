@@ -24,6 +24,8 @@ class ApiConfig {
   static const String followSpaceEndpoint = '/student/space/follow';
   static const String unfollowSpaceEndpoint = '/student/space/unfollow';
 
+  /// New One
+
   static const int pageSize = 20;
 }
 
